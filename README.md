@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Himanshu-sharma73
-- 👀 I’m interested in programming language
-- 🌱 I’m currently learning java 
+- Hello! 🚀 I'm Himanshu Sharma, venturing into the dynamic world of technology with proficiency in C, Java, and hands-on experience in Spring Boot and Spring Cloud and Microservice.
+-  My journey has been fueled by a passion for technology, where I've refined my skills through practical projects and training. 💻 With strengths in time management and problem-solving, I'm eager to apply this diverse skill set to tackle IT challenges.
+- Beyond coding, you'll find me on the cricket field 🏏, immersed in video games 🎮, and constantly embracing opportunities to learn new skills.
 - 📫 How to reach me www.linkedin.com/in/himanshu-sharma-251133213
