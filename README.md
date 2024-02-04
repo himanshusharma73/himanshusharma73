@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there, this is <a href="https://www.linkedin.com/in/himanshu-sharma-251133213">Himanshu Sharma</a></h1>
 
-<img align="right" src="https://user-images.githubusercontent.com/4970624/102078863-a7889d80-3e31-11eb-917c-80b590fd3a66.png" height="350" width="350" />
+<img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s---19xC9UH--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gfmus48wg13losu6uor6.jpg" height="350" width="350" />
 
 <p>&nbsp;</p>
 
