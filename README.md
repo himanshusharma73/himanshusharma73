@@ -1,4 +1,40 @@
-- Hello! 🚀 I'm Himanshu Sharma, venturing into the dynamic world of technology with proficiency in C, Java, and hands-on experience in Spring Boot and Spring Cloud and Microservice.
--  My journey has been fueled by a passion for technology, where I've refined my skills through practical projects and training. 💻 With strengths in time management and problem-solving, I'm eager to apply this diverse skill set to tackle IT challenges.
-- Beyond coding, you'll find me on the cricket field 🏏, immersed in video games 🎮, and constantly embracing opportunities to learn new skills.
-- 📫 How to reach me www.linkedin.com/in/himanshu-sharma-251133213
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30" height="30"> Hello there, this is <a href="https://www.linkedin.com/in/himanshu-sharma-251133213">Himanshu Sharma</a></h1>
+
+<img align="right" src="https://user-images.githubusercontent.com/4970624/102078863-a7889d80-3e31-11eb-917c-80b590fd3a66.png" height="350" width="350" />
+
+<p>&nbsp;</p>
+
+### It's very nice to meet you! 🙌
+
+Hello, I'm Himanshu Sharma, a **Backend Developer** specializing in the Java Spring ecosystem. I'm dedicated to constructing robust systems and bring expertise in various aspects of backend development, driven by a passion for crafting efficient solutions.
+
+## Technical Skills
+- **Programming Languages:** Java
+- **Framework:** Java Spring (including Spring Boot)
+- **API Development:** RESTful APIs with Spring MVC
+- **Database:** MySQL, PostgreSQL, Spring Data JPA
+- **Microservices:** Spring Cloud
+- **Security:** Spring Security
+- **Version Control:** Git
+- **Build Tools:** Maven, Gradle
+
+You can learn more about me and my Skills, Education, Work Experience, etc from my [**Linkedin Profile here**](https://www.linkedin.com/in/himanshu-sharma-251133213).
+
+
+<h2>🏄‍♂️ Himanshu's Tech Toolbox 🧰:</h2>
+<code><img alt="c" title="c" height="50" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" /></code>
+<code><img alt="Java" title="Java" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></code>
+<code><img alt="Spring" title="Spring" height="50" src="https://spring.io/img/spring.svg" /></code>
+<code><img alt="JSON" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png" /></code>
+<code><img alt="YAML" title="YAML" height="50" src="https://cdn-icons-png.flaticon.com/512/187/187689.png" /></code>
+<code><img alt="Postman" title="Postman" height="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" /></code>
+<code><img alt="REST API" title="Rest API" height="50" src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" /></code>
+
+<code><img alt="MySQL" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" /></code>
+<code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></code>
+<code><img alt="Git" title="Git" height="50" src="https://cdn-icons-png.flaticon.com/512/2680/2680847.png" /></code>
+<code><img alt="VSCode" title="VSCode" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></code>
+<code><img alt="VSCode" title="VSCode" height="50" src="https://en.m.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" /></code>
+<code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png" /></code>
+<code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
+<code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/press-kit-icon.svg" /></code>
