@@ -22,7 +22,7 @@ You can learn more about me and my Skills, Education, Work Experience, etc from 
 
 
 <h2>🏄‍♂️ Himanshu's Tech Toolbox 🧰:</h2>
-<code><img alt="c" title="c" height="50" src="https://commons.wikimedia.org/wiki/File:C_Programming_Language.svg" /></code>
+<code><img alt="c" title="c" height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" /></code>
 <code><img alt="Java" title="Java" height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" /></code>
 <code><img alt="Spring" title="Spring" height="50" src="https://spring.io/img/spring.svg" /></code>
 <code><img alt="JSON" title="JSON" height="50" src="https://cdn-icons-png.flaticon.com/512/541/541488.png" /></code>
@@ -34,7 +34,7 @@ You can learn more about me and my Skills, Education, Work Experience, etc from 
 <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></code>
 <code><img alt="Git" title="Git" height="50" src="https://cdn-icons-png.flaticon.com/512/2680/2680847.png" /></code>
 <code><img alt="VSCode" title="VSCode" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" /></code>
-<code><img alt="VSCode" title="VSCode" height="50" src="https://en.m.wikipedia.org/wiki/File:IntelliJ_IDEA_Icon.svg" /></code>
+<code><img alt="intelliJ" title="intelliJ" height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" /></code>
 <code><img alt="MySQL Workbench" title="MySQL Workbench" height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Antu_mysql-workbench.svg/240px-Antu_mysql-workbench.svg.png" /></code>
 <code><img alt="Github" title="Github" height="50" src="https://cdn-icons-png.flaticon.com/512/733/733609.png" /></code>
 <code><img alt="Gitlab" title="Gitlab" height="50" src="https://about.gitlab.com/images/press/press-kit-icon.svg" /></code>
