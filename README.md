@@ -13,6 +13,8 @@ Hello, I'm Himanshu Sharma, a **Backend Developer** specializing in the Java Spr
 - **Framework:** Java Spring (including Spring Boot)
 - **API Development:** RESTful APIs with Spring MVC
 - **Database:** MySQL, PostgreSQL, Spring Data JPA
+- **Search and Analytics:** Elasticsearch
+- **Visualization and Analytics Tools:** Kibana
 - **Microservices:** Spring Cloud
 - **Security:** Spring Security
 - **Version Control:** Git
@@ -29,6 +31,8 @@ You can learn more about me and my Skills, Education, Work Experience, etc from 
 <code><img alt="YAML" title="YAML" height="50" src="https://cdn-icons-png.flaticon.com/512/187/187689.png" /></code>
 <code><img alt="Postman" title="Postman" height="50" src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" /></code>
 <code><img alt="REST API" title="Rest API" height="50" src="https://cdn-icons-png.flaticon.com/512/2091/2091704.png" /></code>
+<code><img alt="Elastic Search" title="Elastic Search" height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg" /></code>
+<code><img alt="Kibana" title="Kibana" height="50" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/elasticco_kibana_logo_icon_169209.png /></code>
 
 <code><img alt="MySQL" title="MySQL" height="50" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg" /></code>
 <code><img alt="PostgreSQL" title="PostgreSQL" height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></code>
